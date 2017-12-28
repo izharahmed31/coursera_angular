@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31dc7b89-5f57-4d4f-85ca-7b53153574a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coursera_angular.iws" />
@@ -165,7 +164,13 @@
       <option name="project" value="LOCAL" />
       <updated>1514480184642</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new version is this v">
+      <created>1514480496312</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514480496312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -200,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new version" />
     <MESSAGE value="new version is this" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version is this" />
+    <MESSAGE value="new version is this v" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version is this v" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
